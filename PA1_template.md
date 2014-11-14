@@ -315,4 +315,3 @@ qplot(dtWeekDays$interval,dtWeekDays$steps, data=dtWeekDays, facets= day~., geom
 ![plot of chunk NO14](figure/NO14-1.png) 
 
 **More peeks on weekends. More of a constant frequency in weekdays.**
-
